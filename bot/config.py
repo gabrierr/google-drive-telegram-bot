@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5016535158:AAH8xEFfT0HIw4nU0Q7gkDr-cHPwsirUcJg"
     APP_ID = "6079533"
     API_HASH = "f18a53c6f9963ca6489860865205a69b"
-    DATABASE_URL = "postgresql://typlpamm:unjzJg0VF5jQfPqndXjbBaPAtsANZgNo@chunee.db.elephantsql.com/typlpamm"
+    DATABASE_URL = "postgres://emvgyxif:Eb68ixJn9cMwKC8F_HmUAaK9K0x-Rgw3@rosie.db.elephantsql.com/emvgyxif"
     SUDO_USERS = "1451604929" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/+pLdE0fPyofxlYTdl"
     DOWNLOAD_DIRECTORY = "./downloads/"
