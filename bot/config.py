@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
-    DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    BOT_TOKEN = "5016535158:AAH8xEFfT0HIw4nU0Q7gkDr-cHPwsirUcJg"
+    APP_ID = "6079533"
+    API_HASH = "f18a53c6f9963ca6489860865205a69b"
+    DATABASE_URL = "postgresql://typlpamm:unjzJg0VF5jQfPqndXjbBaPAtsANZgNo@chunee.db.elephantsql.com/typlpamm"
+    SUDO_USERS = "1451604929" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/+pLdE0fPyofxlYTdl"
+    DOWNLOAD_DIRECTORY = "/usr/src/app/downloads/"
+    G_DRIVE_CLIENT_ID = "175244381496-1l6tgcnnd05n9npso20ark5k1ml3a4u6.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
